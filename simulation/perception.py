@@ -21,7 +21,7 @@ class FruitsTF(Node):
 
     def __init__(self):
         super().__init__('fruits_tf')
-        self.team_id = "1732" # CHANGED to string for consistency
+        self.team_id = "****" # CHANGED to string for consistency
         self.bridge = CvBridge()
         self.cv_image = None
         self.depth_image = None
