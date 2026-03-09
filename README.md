@@ -158,6 +158,8 @@ ros2 launch eyantra_warehouse task4c.launch.py
 
 📺 YouTube Demo:
 👉 https://youtu.be/KQTkCjBqOxc?si=yl_s3IojYleHSmcs
+📺 YouTube playlist:
+👉 https://youtube.com/playlist?list=PLQcgql__dXre4uqwJgKRXPLFkSnAbvKIY&si=tBioVZB9U1Ie4ruB
 
 
 ---
@@ -175,14 +177,6 @@ This project strengthened my understanding of:
 * Writing deterministic autonomous logic
 
 ---
-
-# 🔮 Future Improvements
-
-* MoveIt integration for advanced motion planning
-* SLAM-based mapping
-* Hardware deployment on real robots
-* Dynamic obstacle handling
-* AI-based fruit classification
 
 ---
 
