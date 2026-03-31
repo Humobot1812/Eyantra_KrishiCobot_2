@@ -41,7 +41,7 @@ class ShapeDetector(Node):
         self.create_subscription(String, '/fruit_detection_control', self.control_callback, 10)
 
         # --- Publishers ---
-        self.detection_pub = self.create_publisher(String, '/detection', 10)
+        self.detection_pub = self.create_publisher(String, '/detection_status', 10)
         self.pause_pub = self.create_publisher(String, '/pause', 10)
 
         self.get_logger().info('✓ Shape Detector Task 3B (Motion-Robust Logic) Initialized')
