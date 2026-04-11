@@ -63,6 +63,8 @@ KrishiCobot/
 │   ├── perception_hardware.py      # Real camera perception
 │   ├── Videos                      # Glampse of Hardware
 │   │   └── Hardware_demo.mp4
+│   ├── Images                      
+│   │   ├── Ur5_img
 │
 ├── simulation/
 │   ├── Images
