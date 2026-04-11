@@ -59,7 +59,8 @@ The mission executes in a **single continuous autonomous run**.
 KrishiCobot/
 │
 ├── Hardware/
-│   ├── Videos        # Glampse of Hardware
+│   ├── Videos                      # Glampse of Hardware
+│   │   ├── Hardware_demo.mp4
 │   ├── ebot_nav_hardware.py        # Real robot navigation
 │   └── perception_hardware.py      # Real camera perception
 │
