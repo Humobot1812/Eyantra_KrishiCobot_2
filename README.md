@@ -73,7 +73,7 @@ KrishiCobot/
 │   ├── manipulation.py             # UR5 pick & place logic
 │   ├── perception.py               # Vision + TF publishing
 │   ├── shape_detector.py           # LiDAR RANSAC shape detection
-│   ├── Video                      
+│   ├── Videos                      
 │   │   └── Ur5_workflow.mp4
 │   ├── Images                      
 │   │   ├── Arm.png
